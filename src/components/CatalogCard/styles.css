@@ -1,0 +1,28 @@
+.container {
+  width: 100%;
+  max-width: 960px;
+  height: 352px;
+  border: 1px solid var(--bg-primary-color);
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.container img {
+  width: 100%;
+  max-width: 391px;
+  height: 292px;
+}
+
+.container p {
+  color: var(--font-primary-color);
+}
+
+@media (min-width: 1200px) {
+  .container p {
+    font-size: 20px;
+  }
+}

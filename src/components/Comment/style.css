@@ -1,0 +1,10 @@
+.comment{
+    background-color: white;
+    max-width: 960px;
+    width: 100%;
+    border: 1px solid var(--bg-primary-color);
+    color: var(--bg-primary-color);
+    border-radius: 12px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
