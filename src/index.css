@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Inclusive+Sans&family=Open+Sans:wght@300;700&family=Poppins:wght@300;400&display=swap');
+
+:root{
+  --bg-primary-color : #3C9AF0;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+}
